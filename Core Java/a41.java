@@ -1,5 +1,5 @@
 //write a Java Program Based On class, object, field & method
-class a41
+class Student
 {
  int rollno;
  String name;
@@ -13,7 +13,7 @@ class a41
  System.out.println(rollno+""+name);
  }
 }
- class Student1
+ class a41
 {
  public static void main(String args[])
  {
