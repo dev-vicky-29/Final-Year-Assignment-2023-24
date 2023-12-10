@@ -1,4 +1,4 @@
-//Write a Program to illustrate Implicit Type Casting
+//Write a Program to illustrate Implicit Type Casting 
 public class a21 
 {
    public static void main(String[] args)
